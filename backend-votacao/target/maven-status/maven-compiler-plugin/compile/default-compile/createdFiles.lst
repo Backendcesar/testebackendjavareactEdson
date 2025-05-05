@@ -1,0 +1,16 @@
+com\example\votacao\controller\UsuarioController.class
+com\example\votacao\repository\UsuarioRepository.class
+com\example\votacao\config\H2Config.class
+com\example\votacao\controller\PautaController.class
+com\example\votacao\service\PautaService.class
+com\example\votacao\repository\PautaRepository.class
+com\example\votacao\config\SecurityConfig.class
+com\example\votacao\model\Voto.class
+com\example\votacao\service\UsuarioService.class
+com\example\votacao\VotacaoApplication.class
+com\example\votacao\config\WebConfig.class
+com\example\votacao\dto\UsuarioDTO.class
+com\example\votacao\model\Pauta.class
+com\example\votacao\repository\VotoRepository.class
+com\example\votacao\model\Usuario.class
+com\example\votacao\controller\VotoRequest.class

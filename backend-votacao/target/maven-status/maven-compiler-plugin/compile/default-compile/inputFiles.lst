@@ -1,0 +1,16 @@
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\config\SecurityConfig.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\model\Voto.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\repository\VotoRepository.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\controller\UsuarioController.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\VotacaoApplication.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\config\WebConfig.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\model\Pauta.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\service\PautaService.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\model\Usuario.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\config\H2Config.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\service\UsuarioService.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\repository\PautaRepository.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\repository\UsuarioRepository.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\controller\VotoRequest.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\controller\PautaController.java
+D:\123\Testebackjava\backend-votacao\src\main\java\com\example\votacao\dto\UsuarioDTO.java
