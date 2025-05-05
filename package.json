@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0",
+    "react-refresh": "^0.17.0"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.75.1"
+  }
+}
